@@ -1,6 +1,6 @@
-# Customer-Churn-Prediction
-This Project refers to the prediction of whether a purticular Customer Ceases his or her relationship with a company.
-* To preprocess the given data of records and features
-* Developed a deep learning model using Advanced algorithms like Artificial Neural networks classifiers to find the accuracy of model prediction.
-* Implemented feature encoding techniques and applied Hyperparameter tuning using GridSearchCV to find out best epochs and optimizers.
+# Image Classification using Convolution Neural Network
+This Project refers to the Classification of Purticular images using HAARCascade files.
+* To preprocess the given images using Keras and Tensorflow 
+* Developed a deep learning model using Advanced algorithms like Convolution Nural Neural networks to find best epochs and optimizer.
+* Training the CNN model with train data and testing the model with test data
   
